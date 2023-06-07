@@ -54,6 +54,5 @@ Path if there is a fire
 If no fire is detected
 ![If no fire is detected](https://github.com/old-school-kid/FireProof/blob/main/media/No%20fire.png)
 
-## Important Links
-[Presentation](https://docs.google.com/presentation/d/15hfhQHfEvQtafrqppfLhot6F5t3R4naEtEJJR1Avqv0/edit?usp=sharing)
+
 
